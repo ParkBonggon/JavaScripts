@@ -2,7 +2,7 @@
 //sub-program 프로그램 내에서 각각의 작은 단위의 기능 수행
 
 //API = Application Programming Interface
-//Function f: ,input,output, Function의 이름을 잘 정하는게 중요함
+//Function은 input,output, Function의 이름을 잘 정하는게 중요함
 
 //Function
 //-fundamental building block in the program
